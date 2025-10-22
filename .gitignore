@@ -44,7 +44,7 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Firebase configuration (не загружайте эти файлы на GitHub!)
-android/app/google-services.json
-ios/Runner/GoogleService-Info.plist
-lib/firebase_options.dart
+# Firebase configuration (временно открыто для проверки проекта)
+# android/app/google-services.json
+# ios/Runner/GoogleService-Info.plist
+# lib/firebase_options.dart
